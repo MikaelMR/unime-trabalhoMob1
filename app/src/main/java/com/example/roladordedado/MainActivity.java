@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         help = findViewById(R.id.help);
         guardaDado = findViewById(R.id.guardaDado);
         dado1 = findViewById(R.id.dado1);
-        dado1 = findViewById(R.id.dado2);
+        dado2 = findViewById(R.id.dado2);
         guardaDado.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
